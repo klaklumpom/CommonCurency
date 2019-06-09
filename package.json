@@ -1,0 +1,22 @@
+{
+  "name": "commoncurency",
+  "version": "1.0.0",
+  "description": "\"# CommonCurency\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaklumpom/CommonCurency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klaklumpom/CommonCurency/issues"
+  },
+  "homepage": "https://github.com/klaklumpom/CommonCurency#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
